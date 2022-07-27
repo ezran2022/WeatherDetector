@@ -1,6 +1,6 @@
 # WeatherDetector
 
-## This is a Weather Detector System responsible to detect the temperature ,humidity,pressure,,and cooordinate of longitude and latitude
+## This is a Django project " Weather Detector System " responsible to detect the temperature ,humidity,pressure,,and cooordinate of longitude and latitude
  
  This is the starting point of our system for giving you a possibility of searching an information of a city you want
 
